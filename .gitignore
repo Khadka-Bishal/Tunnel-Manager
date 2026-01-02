@@ -1,0 +1,28 @@
+vpn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+
+# Dependency directories
+node_modules/
+venv/
+
+# Build output
+dist/
+build/
+*.log
+
+# Environment and config files
+.env
+.env.*
+config.yaml
+config.json
+*.key
+*.crt
+*.pem
